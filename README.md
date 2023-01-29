@@ -6,7 +6,7 @@ This website is designed to keep user's informed about the weather specifically 
 # Instructions for usage:
 Navigate over to the search bar and type in a city you want the weather for. Then, once you've entered in a city, hit 'search'. This page should then populate with accurate weather information based on the city you've just entered. Additionally, you are able to see and select your recent searches on the left-hand side of the screen. Just click one of your recent searches and you'll head right back to the city you've just entered. Happy forecasting!
 
-Built using these technologies:
+# Built using these technologies:
   WeatherAPI
   Javascript
   HTML
